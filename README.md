@@ -55,6 +55,10 @@ It is designed as a lightweight **offline desktop solution** for small-scale pha
 
 * **Project:** Desktop Application for Miraj Medical
 * **Technologies:** Java, Java Swing, JDBC, SQL, MySQL
+
+ ## 📄 Project Documentation
+
+[View Project Documentation](./Blackbook_MirajMedical.pdf)
 * **IDE:** NetBeans IDE
 * **Database Tool:** MySQL Workbench
 * **Application Type:** Desktop Application
